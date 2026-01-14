@@ -4,7 +4,7 @@ Fresh Graduate S1 Informatika
 UI/UX Design • Web Development • Digital Design
 
 ## 🎨 Portfolio
-🔗 [View My Portfolio (Canva)](https://www.canva.com/design/DAG-F4qrOJE/G1zeopI3zt4qtsFl33UA0g/view)
+🔗 [Portfolio – Fitriatus Sholihah](https://www.canva.com/design/DAG-F4qrOJE/G1zeopI3zt4qtsFl33UA0g/view)
 
 ## 💻 Technical Skills
 - Desain Digital
